@@ -1,1 +1,1 @@
-# Desktop application WPF.
+# Desktop application WPF for college.
